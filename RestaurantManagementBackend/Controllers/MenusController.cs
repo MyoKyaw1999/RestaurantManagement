@@ -59,7 +59,7 @@ namespace RestaurantManagementBackend.Controllers
             try
             {
                 model.CreatedDate = DateTime.Now;
-
+                model.ItemId = Guid.NewGuid().ToString();
                 _context.MenuItems.Add(model);
                 await _context.SaveChangesAsync();
 

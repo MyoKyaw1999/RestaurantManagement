@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +19,32 @@
       "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\restaurantmanagementbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:restaurantmanagementbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|d:\\project\\kmd\\testapi\\restaurantmanagementbackend\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417A9F82-BC06-44CD-BEF2-B183157714BF}|RestaurantManagementBackend.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,88 +74,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Models\\OrderService.cs",
+              "RelativeDocumentMoniker": "Models\\OrderService.cs",
+              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Models\\OrderService.cs",
+              "RelativeToolTip": "Models\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:40:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T14:53:48.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Models\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\UserDbContext.cs",
+              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Models\\UserDbContext.cs",
+              "RelativeToolTip": "Models\\UserDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA6wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:29:37.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:31:13.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAnwDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:52:55.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MenusController.cs",
               "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Controllers\\MenusController.cs",
               "RelativeDocumentMoniker": "Controllers\\MenusController.cs",
               "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Controllers\\MenusController.cs",
               "RelativeToolTip": "Controllers\\MenusController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAxwHYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T16:06:37.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "RestaurantManagementBackend",
+              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\RestaurantManagementBackend.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagementBackend.csproj",
+              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\RestaurantManagementBackend.csproj",
+              "RelativeToolTip": "RestaurantManagementBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T11:22:13.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "response.cs",
               "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Models\\response.cs",
               "RelativeDocumentMoniker": "Models\\response.cs",
               "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Models\\response.cs",
               "RelativeToolTip": "Models\\response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T15:37:10.348Z"
+              "WhenOpened": "2025-11-26T15:37:10.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAywCAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T23:52:55.869Z"
+              "DocumentIndex": 10,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T12:18:38.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserDbContext.cs",
-              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Models\\UserDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\UserDbContext.cs",
-              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Models\\UserDbContext.cs",
-              "RelativeToolTip": "Models\\UserDbContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T23:29:37.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
               "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:05:47.343Z"
+              "WhenOpened": "2025-11-24T16:05:47.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T23:31:13.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Project\\KMD\\TestAPI\\RestaurantManagementBackend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T23:25:43.249Z"
+              "WhenOpened": "2025-10-29T23:25:43.249Z",
+              "EditorCaption": ""
             }
           ]
         }

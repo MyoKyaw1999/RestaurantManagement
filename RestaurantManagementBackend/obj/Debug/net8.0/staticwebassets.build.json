@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"fZ/G+9xUKk17p5zu12rqM8dw2Fd74en8CdE2aUVCXyo=","Source":"RestaurantManagementBackend","BasePath":"_content/RestaurantManagementBackend","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "8IHUQNpIDQ4lShVfl4RQ9yopiqQghU+uA+U109qsyuQ=",
+  "Source": "RestaurantManagementBackend",
+  "BasePath": "_content/RestaurantManagementBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
